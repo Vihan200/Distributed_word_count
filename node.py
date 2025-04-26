@@ -99,7 +99,6 @@ class Node:
         if node_id in self.nodes:
             self.nodes.remove(node_id)
             self.sidecar.log(f"Removed node {node_id} from cluster")
-            # If the removed node was our leader, we should start an election
             if node_id == self.leader_id:
                 self.node_data = {}
                 self.leader_id = None
@@ -150,7 +149,6 @@ class Node:
     def start_word_count(self):
         self.sidecar.log(f"############## Word Count Start ##############")
         
-        # Get all proposer nodes
         # proposers = [node for node in self.nodes 
         #             if self.get_node_data(node, "role") == "proposer"]
         
@@ -215,7 +213,7 @@ class Node:
     def process_word_count_result(self, msg):
         if self.role == 'acceptor':
             proposed_data = msg['data']
-            # Simulate validation (assume success for now)
+            #todo Simulate validation (assume success for now)
             is_valid = True  # Extend this with real validation logic if needed
             if is_valid:
                 self.accepted_counts.append(proposed_data)
@@ -263,10 +261,9 @@ class Node:
                     delay = time.time() - self.last_heartbeat
                     if delay > 15:
                         self.sidecar.log(f"Leader {self.leader_id} heartbeat timeout, starting election")
-                        # Only remove the leader if we have one and it's not ourselves
                         if self.leader_id is not None and self.leader_id != self.node_id:
                             self.send('cluster-broadcast', {'type': 'remove_node', 'from': self.node_id, 'id': self.leader_id})
-                            self.nodes.discard(self.leader_id)  # Also remove locally
+                            self.nodes.discard(self.leader_id) 
                             self.sidecar.log(f"Removed leader {self.leader_id} from nodes list")
                         self.last_heartbeat = None
                         self.leader_id = None
@@ -282,7 +279,7 @@ class Node:
     def monitor_heartbeat(self, msg):
         if self.leader_id == self.node_id:
             current_time = time.time()
-            for node in list(self.nodes):  # Create copy for safe iteration
+            for node in list(self.nodes): 
                 heartbeat_time = self.get_node_data(node, "heartbeat")
                 if heartbeat_time and (current_time - float(heartbeat_time)) > 10:
                     self.nodes.discard(node)
@@ -317,23 +314,13 @@ class Node:
     def get_range(self, i, proposer_count):
         letters = [char for char in "abcdefghijklmnopqrstuvwxyz"]
         total_letters = len(letters)
-        
-        # Calculate letters per proposer (at least 1)
         letters_per_proposer = max(1, total_letters // proposer_count)
-        
-        # Calculate start and end indices
         start_idx = i * letters_per_proposer
         end_idx = start_idx + letters_per_proposer
-        
-        # Handle the last proposer getting remaining letters
         if i == proposer_count - 1:
             end_idx = total_letters
-        
-        # Ensure we don't go beyond the alphabet
         start_idx = min(start_idx, total_letters - 1)
         end_idx = min(end_idx, total_letters)
-        
-        # Get the actual letter range
         start_char = letters[start_idx]
         end_char = letters[end_idx - 1] if end_idx > 0 else letters[-1]
         
