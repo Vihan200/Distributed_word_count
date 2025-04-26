@@ -1,0 +1,2441 @@
+[2025-04-24 21:18:18] Node 112: [BOOT] Node 112 initialized.
+[2025-04-24 21:18:19] Node 112: Initiating Bully election...
+[2025-04-24 21:18:20] Node 112: I am the new leader (Coordinator).
+[2025-04-24 21:18:20] Node 112: ################ Started Role Assignning ##################
+[2025-04-24 21:18:22] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:22] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:22] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:22] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:23] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:23] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:23] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:23] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:23] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:23] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:23] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:23] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:23] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:18:23] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:24] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:24] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:24] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:24] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:24] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:18:24] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:24] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:18:24] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:24] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:25] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:18:25] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:25] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:25] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:25] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:25] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:18:26] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:26] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:26] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:26] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:26] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:18:26] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:26] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:27] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:27] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:27] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:18:27] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:27] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:27] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:27] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:28] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:28] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:28] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:18:28] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:28] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:28] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:29] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:29] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:29] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:18:30] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:30] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:30] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:30] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:30] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:30] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:18:31] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:31] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:31] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:31] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:31] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:31] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:31] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:18:32] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:32] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:32] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:32] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:18:32] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:32] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:33] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:33] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:33] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:33] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:33] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:33] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:34] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:34] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:34] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:34] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:34] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:34] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:35] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:35] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:35] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:35] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:35] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:35] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:35] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:35] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:36] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:36] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:36] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:18:36] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:37] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:37] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:37] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:37] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:37] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:37] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:38] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:18:38] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:38] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:38] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:38] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:38] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:39] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:39] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:39] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:18:39] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:39] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:39] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:39] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:40] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:40] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:40] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:40] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:18:41] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:41] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:41] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:41] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:42] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:42] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:42] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:42] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:18:42] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:43] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:43] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:43] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:43] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:43] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:44] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:44] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:18:44] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:44] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:45] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:45] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:45] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:45] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:45] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:46] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:46] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:46] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:46] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:18:46] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:47] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:47] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:47] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:47] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:47] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:18:47] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:48] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:48] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:48] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:48] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:48] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:48] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:49] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:49] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:49] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:49] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:49] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:50] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:50] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:50] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:50] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:50] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:50] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:18:51] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:51] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:51] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:51] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:51] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:51] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:51] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:51] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:52] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:52] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:52] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:53] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:53] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:53] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:53] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:53] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:54] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:54] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:54] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:54] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:54] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:54] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:54] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:54] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:55] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:55] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:55] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:55] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:55] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:18:55] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:56] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:56] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:56] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:56] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:56] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:56] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:57] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:57] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:57] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:57] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:57] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:57] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:57] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:58] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:58] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:58] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:58] Node 112: New leader recognized: Node 105
+[2025-04-24 21:18:58] Node 112: New leader recognized: Node 106
+[2025-04-24 21:18:58] Node 112: New leader recognized: Node 100
+[2025-04-24 21:18:58] Node 112: New leader recognized: Node 101
+[2025-04-24 21:18:58] Node 112: New leader recognized: Node 102
+[2025-04-24 21:18:59] Node 112: New leader recognized: Node 103
+[2025-04-24 21:18:59] Node 112: New leader recognized: Node 104
+[2025-04-24 21:18:59] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:00] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:00] Node 112: New leader recognized: Node 100
+[2025-04-24 21:19:00] Node 112: New leader recognized: Node 101
+[2025-04-24 21:19:01] Node 112: New leader recognized: Node 102
+[2025-04-24 21:19:01] Node 112: New leader recognized: Node 103
+[2025-04-24 21:19:02] Node 112: New leader recognized: Node 104
+[2025-04-24 21:19:02] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:02] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:03] Node 112: New leader recognized: Node 100
+[2025-04-24 21:19:03] Node 112: New leader recognized: Node 101
+[2025-04-24 21:19:03] Node 112: New leader recognized: Node 102
+[2025-04-24 21:19:03] Node 112: New leader recognized: Node 103
+[2025-04-24 21:19:04] Node 112: New leader recognized: Node 104
+[2025-04-24 21:19:04] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:04] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:04] Node 112: New leader recognized: Node 100
+[2025-04-24 21:19:04] Node 112: New leader recognized: Node 101
+[2025-04-24 21:19:04] Node 112: New leader recognized: Node 102
+[2025-04-24 21:19:05] Node 112: New leader recognized: Node 103
+[2025-04-24 21:19:05] Node 112: New leader recognized: Node 104
+[2025-04-24 21:19:05] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:05] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:05] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:05] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:06] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:06] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:06] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:06] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:06] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:06] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:07] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:07] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:07] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:08] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:08] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:08] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:08] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:08] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:09] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:09] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:09] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:09] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:09] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:09] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:10] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:10] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:10] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:10] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:10] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:11] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:11] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:11] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:11] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:11] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:12] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:12] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:12] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:12] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:13] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:13] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:13] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:13] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:13] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:13] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:14] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:14] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:14] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:14] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:14] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:14] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:15] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:15] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:15] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:15] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:16] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:16] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:16] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:16] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:16] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:16] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:17] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:17] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:17] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:17] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:17] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:17] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:18] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:18] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:18] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:18] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:18] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:19] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:19] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:19] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:19] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:20] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:20] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:20] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:20] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:20] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:21] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:21] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:21] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:21] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:21] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:21] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:21] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:22] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:22] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:22] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:22] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:23] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:23] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:23] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:23] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:24] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:24] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:24] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:24] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:24] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:24] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:25] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:25] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:25] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:25] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:25] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:25] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:26] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:26] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:26] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:26] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:26] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:26] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:27] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:27] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:27] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:27] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:27] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:28] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:28] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:28] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:28] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:28] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:29] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:29] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:29] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:29] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:29] Node 112: New leader recognized: Node 104
+[2025-04-24 21:19:29] Node 112: New leader recognized: Node 102
+[2025-04-24 21:19:30] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:30] Node 112: New leader recognized: Node 103
+[2025-04-24 21:19:30] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:30] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:30] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:30] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:31] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:31] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:31] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:31] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:31] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:32] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:32] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:32] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:32] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:32] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:33] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:33] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:33] Node 112: New leader recognized: Node 103
+[2025-04-24 21:19:33] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:33] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:33] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:34] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:34] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:34] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:34] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:34] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:35] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:35] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:35] Node 112: New leader recognized: Node 104
+[2025-04-24 21:19:35] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:36] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:36] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:36] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:36] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:36] Node 112: New leader recognized: Node 104
+[2025-04-24 21:19:36] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:36] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:37] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:37] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:37] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:37] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:37] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:37] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:37] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:38] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:38] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:38] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:38] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:38] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:39] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:39] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:39] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:39] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:39] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:40] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:40] Node 112: New leader recognized: Node 103
+[2025-04-24 21:19:40] Node 112: New leader recognized: Node 104
+[2025-04-24 21:19:40] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:40] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:40] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:41] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:41] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:41] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:41] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:41] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:41] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:41] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:41] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:42] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:42] Node 112: New leader recognized: Node 104
+[2025-04-24 21:19:42] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:42] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:43] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:43] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:43] Node 112: New leader recognized: Node 104
+[2025-04-24 21:19:43] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:43] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:44] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:44] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:44] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:44] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:44] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:44] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:44] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:45] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:45] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:45] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:45] Node 112: New leader recognized: Node 100
+[2025-04-24 21:19:45] Node 112: New leader recognized: Node 101
+[2025-04-24 21:19:46] Node 112: New leader recognized: Node 102
+[2025-04-24 21:19:46] Node 112: New leader recognized: Node 103
+[2025-04-24 21:19:46] Node 112: New leader recognized: Node 104
+[2025-04-24 21:19:46] Node 112: New leader recognized: Node 105
+[2025-04-24 21:19:47] Node 112: New leader recognized: Node 106
+[2025-04-24 21:19:47] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:47] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:47] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:47] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:47] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:47] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:48] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:48] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:48] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:48] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:48] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:49] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:49] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:49] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:49] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:49] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:50] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:50] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:50] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:50] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:50] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:51] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:51] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:51] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:51] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:51] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:52] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:52] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:52] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:52] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:53] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:53] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:53] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:53] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:53] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:53] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:54] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:54] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:54] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:54] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:55] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:55] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:55] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:55] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:55] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:56] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:56] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:56] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:56] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:56] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:56] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:57] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:57] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:57] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:57] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:57] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:58] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:58] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:58] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:19:58] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:19:59] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:19:59] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:19:59] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:19:59] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:19:59] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:19:59] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:00] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:00] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:00] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:00] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:01] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:01] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:01] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:01] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:02] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:02] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:02] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:02] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:02] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:03] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:03] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:03] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:03] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:03] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:04] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:04] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:04] Node 112: New leader recognized: Node 105
+[2025-04-24 21:20:04] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:04] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:04] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:05] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:05] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:05] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:05] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:06] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:06] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:06] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:06] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:06] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:07] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:07] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:07] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:07] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:07] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:07] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:07] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:08] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:08] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:08] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:08] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:08] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:08] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:08] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:09] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:09] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:09] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:09] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:09] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:10] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:10] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:10] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:10] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:10] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:11] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:11] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:11] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:11] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:11] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:11] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:11] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:12] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:12] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:12] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:12] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:12] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:12] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:13] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:13] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:13] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:13] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:13] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:13] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:14] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:14] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:14] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:14] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:14] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:14] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:14] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:15] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:15] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:15] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:15] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:15] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:15] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:16] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:16] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:16] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:16] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:17] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:17] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:17] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:17] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:17] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:17] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:18] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:18] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:18] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:18] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:18] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:19] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:19] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:19] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:19] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:19] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:19] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:20] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:20] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:20] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:20] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:20] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:21] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:21] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:21] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:21] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:22] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:22] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:22] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:22] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:22] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:22] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:23] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:23] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:23] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:23] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:23] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:23] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:24] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:24] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:24] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:24] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:24] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:25] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:25] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:25] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:25] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:25] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:26] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:26] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:26] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:26] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:26] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:27] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:27] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:27] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:27] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:27] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:27] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:27] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:27] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:28] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:28] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:28] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:28] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:28] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:29] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:29] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:29] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:29] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:29] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:30] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:30] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:30] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:30] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:30] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:31] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:31] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:31] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:31] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:31] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:32] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:32] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:32] Node 112: New leader recognized: Node 100
+[2025-04-24 21:20:32] Node 112: New leader recognized: Node 101
+[2025-04-24 21:20:32] Node 112: New leader recognized: Node 102
+[2025-04-24 21:20:33] Node 112: New leader recognized: Node 103
+[2025-04-24 21:20:33] Node 112: New leader recognized: Node 104
+[2025-04-24 21:20:33] Node 112: New leader recognized: Node 105
+[2025-04-24 21:20:33] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:33] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:34] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:34] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:34] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:34] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:34] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:35] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:35] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:35] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:35] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:35] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:36] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:36] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:36] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:36] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:36] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:37] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:37] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:37] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:37] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:37] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:38] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:38] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:38] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:38] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:38] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:38] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:39] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:39] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:39] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:39] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:39] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:39] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:39] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:40] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:40] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:40] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:41] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:41] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:41] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:41] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:41] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:42] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:42] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:42] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:42] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:42] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:43] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:43] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:43] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:43] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:43] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:44] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:44] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:44] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:44] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:44] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:45] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:45] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:45] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:45] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:45] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:45] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:46] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:46] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:46] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:46] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:46] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:47] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:47] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:47] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:47] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:47] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:48] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:48] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:48] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:48] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:48] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:48] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:49] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:49] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:49] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:49] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:50] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:50] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:50] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:50] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:50] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:51] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:51] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:51] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:51] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:51] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:52] Node 112: New leader recognized: Node 100
+[2025-04-24 21:20:52] Node 112: New leader recognized: Node 101
+[2025-04-24 21:20:52] Node 112: New leader recognized: Node 102
+[2025-04-24 21:20:52] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:52] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:53] Node 112: New leader recognized: Node 103
+[2025-04-24 21:20:53] Node 112: New leader recognized: Node 104
+[2025-04-24 21:20:53] Node 112: New leader recognized: Node 106
+[2025-04-24 21:20:53] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:53] Node 112: New leader recognized: Node 105
+[2025-04-24 21:20:54] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:54] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:54] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:54] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:55] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:55] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:55] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:55] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:55] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:56] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:56] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:56] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:56] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:56] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:57] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:57] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:57] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:57] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:57] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:57] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:58] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:58] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:58] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:58] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:20:58] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:20:59] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:20:59] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:20:59] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:20:59] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:20:59] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:20:59] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:00] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:00] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:00] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:00] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:00] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:00] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:01] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:01] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:01] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:01] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:01] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:02] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:02] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:02] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:02] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:02] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:02] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:03] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:03] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:03] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:04] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:04] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:04] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:04] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:05] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:05] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:05] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:05] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:05] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:06] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:06] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:06] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:06] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:06] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:07] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:07] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:07] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:07] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:07] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:08] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:08] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:08] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:08] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:09] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:09] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:09] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:09] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:09] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:09] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:10] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:10] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:10] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:10] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:10] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:10] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:11] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:11] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:11] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:11] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:11] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:12] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:12] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:12] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:12] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:12] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:12] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:13] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:13] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:13] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:13] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:13] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:14] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:14] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:14] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:14] Node 112: New leader recognized: Node 100
+[2025-04-24 21:21:14] Node 112: New leader recognized: Node 101
+[2025-04-24 21:21:15] Node 112: New leader recognized: Node 102
+[2025-04-24 21:21:15] Node 112: New leader recognized: Node 103
+[2025-04-24 21:21:15] Node 112: New leader recognized: Node 104
+[2025-04-24 21:21:15] Node 112: New leader recognized: Node 105
+[2025-04-24 21:21:15] Node 112: New leader recognized: Node 106
+[2025-04-24 21:21:16] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:16] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:16] Node 112: coordinator Leader Heartbeat Received from:  102
+[2025-04-24 21:21:16] Node 112: coordinator Leader Heartbeat Received from:  103
+[2025-04-24 21:21:16] Node 112: coordinator Leader Heartbeat Received from:  104
+[2025-04-24 21:21:17] Node 112: coordinator Leader Heartbeat Received from:  105
+[2025-04-24 21:21:17] Node 112: coordinator Leader Heartbeat Received from:  106
+[2025-04-24 21:21:17] Node 112: coordinator Leader Heartbeat Received from:  100
+[2025-04-24 21:21:17] Node 112: coordinator Leader Heartbeat Received from:  101
+[2025-04-24 21:21:48] Node 112: [BOOT] Node 112 initialized.
+[2025-04-24 21:21:53] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:21:58] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:22:02] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:02] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:02] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:02] Node 112: New leader recognized: Node 100
+[2025-04-24 21:22:02] Node 112: New leader recognized: Node 101
+[2025-04-24 21:22:02] Node 112: New leader recognized: Node 102
+[2025-04-24 21:22:03] Node 112: New leader recognized: Node 103
+[2025-04-24 21:22:03] Node 112: New leader recognized: Node 104
+[2025-04-24 21:22:03] Node 112: New leader recognized: Node 105
+[2025-04-24 21:22:03] Node 112: New leader recognized: Node 106
+[2025-04-24 21:22:03] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:03] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:03] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:03] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:04] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:04] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:04] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:04] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:04] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:05] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:05] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:05] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:05] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:06] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:06] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:06] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:06] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:07] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:07] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:07] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:07] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:07] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:07] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:08] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:08] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:08] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:08] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:08] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:08] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:09] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:09] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:09] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:10] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:10] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:11] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:11] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:11] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:11] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:12] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:12] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:12] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:13] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:13] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:13] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:14] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:14] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:14] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:15] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:15] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:15] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:15] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:16] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:16] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:16] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:17] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:17] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:17] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:17] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:18] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:18] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:18] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:19] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:19] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:19] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:19] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:20] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:20] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:20] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:20] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:21] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:21] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:21] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:22] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:22] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:22] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:22] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:23] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:23] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:23] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:23] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:23] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:24] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:24] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:24] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:24] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:24] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:25] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:25] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:25] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:25] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:25] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:25] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:26] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:26] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:26] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:26] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:26] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:26] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:27] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:27] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:27] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:27] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:27] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:27] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:28] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:28] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:28] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:28] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:28] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:29] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:29] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:29] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:29] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:30] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:30] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:30] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:31] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:31] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:31] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:31] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:31] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:32] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:32] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:32] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:32] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:32] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:33] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:33] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:33] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:33] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:34] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:34] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:34] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:34] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:34] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:35] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:35] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:35] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:35] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:35] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:36] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:36] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:36] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:36] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:37] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:37] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:37] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:37] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:38] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:38] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:38] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:38] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:38] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:38] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:39] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:39] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:39] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:39] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:39] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:39] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:40] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:40] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:40] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:40] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:41] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:41] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:41] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:41] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:41] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:41] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:42] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:42] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:42] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:42] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:42] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:43] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:43] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:43] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:43] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:43] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:44] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:44] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:44] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:44] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:44] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:45] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:45] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:45] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:45] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:45] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:45] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:46] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:46] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:46] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:46] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:46] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:46] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:47] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:47] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:47] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:47] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:47] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:47] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:48] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:48] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:48] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:48] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:49] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:49] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:49] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:49] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:49] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:49] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:49] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:50] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:50] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:50] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:50] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:50] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:51] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:51] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:51] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:51] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:51] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:52] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:52] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:52] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:52] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:52] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:53] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:53] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:53] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:53] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:53] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:53] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:54] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:54] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:54] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:54] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:54] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:55] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:55] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:55] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:55] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:55] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:55] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:56] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:56] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:56] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:56] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:56] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:57] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:57] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:57] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:57] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:57] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:57] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:57] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:58] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:58] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:58] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:58] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:58] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:58] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:22:58] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:22:59] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:22:59] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:22:59] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:22:59] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:22:59] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:22:59] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:00] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:00] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:00] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:00] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:00] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:01] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:01] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:01] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:01] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:01] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:01] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:02] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:02] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:02] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:02] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:02] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:02] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:03] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:03] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:03] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:03] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:04] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:04] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:04] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:04] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:04] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:05] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:05] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:05] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:05] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:05] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:05] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:06] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:06] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:06] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:06] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:06] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:06] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:07] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:07] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:07] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:07] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:07] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:08] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:08] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:08] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:08] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:08] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:08] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:09] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:09] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:09] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:09] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:09] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:10] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:10] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:10] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:10] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:10] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:10] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:10] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:11] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:11] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:11] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:11] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:11] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:11] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:12] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:12] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:12] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:12] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:12] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:13] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:13] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:13] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:13] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:13] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:14] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:14] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:14] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:14] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:14] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:14] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:14] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:15] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:15] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:15] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:15] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:16] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:16] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:16] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:16] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:16] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:17] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:17] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:17] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:17] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:17] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:18] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:18] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:18] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:18] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:18] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:19] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:19] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:19] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:19] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:19] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:20] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:20] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:20] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:20] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:21] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:21] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:21] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:21] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:21] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:22] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:22] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:22] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:22] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:22] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:22] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:23] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:23] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:23] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:23] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:23] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:24] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:24] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:24] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:24] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:24] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:24] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:25] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:25] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:25] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:25] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:25] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:25] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:26] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:26] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:26] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:26] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:26] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:26] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:27] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:27] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:27] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:27] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:27] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:28] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:28] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:28] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:28] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:28] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:29] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:29] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:29] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:29] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:29] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:29] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:29] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:30] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:30] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:30] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:30] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:30] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:30] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:30] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:31] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:31] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:31] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:31] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:32] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:32] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:32] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:32] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:32] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:32] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:33] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:33] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:33] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:33] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:33] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:33] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:34] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:34] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:34] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:34] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:34] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:34] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:35] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:35] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:35] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:35] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:35] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:36] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:36] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:36] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:36] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:36] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:36] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:37] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:37] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:37] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:37] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:37] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:37] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:37] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:38] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:38] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:38] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:38] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:38] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:38] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:38] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:39] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:39] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:39] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:39] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:39] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:40] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:40] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:40] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:40] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:40] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:41] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:41] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:41] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:41] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:41] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:41] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:42] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:42] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:42] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:42] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:42] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:43] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:43] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:43] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:43] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:43] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:44] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:44] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:44] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:44] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:44] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:44] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:44] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:45] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:45] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:45] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:45] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:45] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:45] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:46] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:46] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:46] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:46] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:46] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:46] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:47] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:47] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:47] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:47] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:47] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:48] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:48] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:48] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:48] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:48] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:48] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:49] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:49] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:49] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:49] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:49] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:49] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:49] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:49] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:49] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:50] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:50] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:50] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:50] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:50] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:51] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:51] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:51] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:51] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:51] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:52] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:52] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:52] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:52] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:52] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:52] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:52] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:53] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:53] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:53] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:53] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:53] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:53] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:54] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:54] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:54] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:54] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:55] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:55] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:55] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:55] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:55] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:55] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:56] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:56] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:56] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:56] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:56] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:57] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:57] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:57] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:57] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:57] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:57] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:58] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:58] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:58] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:23:58] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:23:58] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:23:59] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:23:59] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:23:59] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:23:59] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:23:59] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:00] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:00] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:00] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:00] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:00] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:01] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:01] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:01] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:01] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:01] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:01] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:02] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:02] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:02] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:02] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:02] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:03] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:03] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:03] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:03] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:03] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:03] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:04] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:04] Node 112: New leader recognized: Node 106
+[2025-04-24 21:24:04] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:04] Node 112: New leader recognized: Node 100
+[2025-04-24 21:24:04] Node 112: New leader recognized: Node 101
+[2025-04-24 21:24:05] Node 112: New leader recognized: Node 102
+[2025-04-24 21:24:05] Node 112: New leader recognized: Node 103
+[2025-04-24 21:24:05] Node 112: New leader recognized: Node 104
+[2025-04-24 21:24:05] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:05] Node 112: New leader recognized: Node 105
+[2025-04-24 21:24:05] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:06] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:06] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:06] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:06] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:06] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:07] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:07] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:07] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:07] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:07] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:08] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:08] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:08] Node 112: New leader recognized: Node 101
+[2025-04-24 21:24:08] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:08] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:08] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:08] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:09] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:09] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:09] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:09] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:09] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:09] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:09] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:10] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:10] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:10] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:10] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:11] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:11] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:11] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:11] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:11] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:12] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:12] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:12] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:12] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:12] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:12] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:12] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:13] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:13] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:13] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:13] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:13] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:14] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:14] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:14] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:14] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:14] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:14] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:15] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:15] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:15] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:15] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:15] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:16] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:16] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:16] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:16] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:16] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:16] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:17] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:17] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:17] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:17] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:17] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:18] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:18] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:18] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:18] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:18] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:18] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:19] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:19] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:19] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:19] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:19] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:19] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:19] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:20] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:20] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:20] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:20] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:20] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:20] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:21] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:21] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:21] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:21] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:22] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:22] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:22] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:22] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:22] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:23] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:23] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:23] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:23] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:24] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:24] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:24] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:24] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:24] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:24] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:25] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:25] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:25] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:25] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:25] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:26] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:26] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:26] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:26] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:26] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:27] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:27] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:27] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:27] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:27] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:27] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:27] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:28] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:28] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:28] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:28] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:28] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:28] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:29] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:29] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:29] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:29] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:29] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:29] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:30] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:30] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:30] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:30] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:30] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:31] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:31] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:31] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:31] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:31] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:31] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:32] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:32] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:32] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:32] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:32] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:32] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:33] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:33] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:33] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:33] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:33] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:33] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:34] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:34] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:34] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:34] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:34] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:35] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:35] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:35] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:35] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:35] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:35] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:35] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:36] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:36] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:36] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:36] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:36] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:36] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:37] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:37] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:37] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:37] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:38] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:38] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:38] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:38] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:38] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:39] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:39] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:39] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:39] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:39] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:39] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:40] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:40] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:40] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:40] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:40] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:41] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:41] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:41] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:41] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:41] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:42] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:42] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:42] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:42] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:42] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:42] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:43] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:43] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:43] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:43] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:43] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:43] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:44] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:44] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:44] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:44] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:44] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:44] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:45] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:45] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:45] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:45] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:45] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:46] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:46] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:46] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:46] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:46] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:46] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:46] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:47] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:47] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:47] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:47] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:47] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:47] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:48] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:48] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:48] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:48] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:48] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:48] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:48] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:48] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:49] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:49] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:49] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:49] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:49] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:49] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:49] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:49] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:49] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:50] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:50] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:50] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:50] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:50] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:50] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:50] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:50] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:51] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:51] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:51] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:51] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:51] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:51] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:51] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:51] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:51] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:52] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:52] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:52] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:52] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:52] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:52] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:52] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:53] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:53] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:53] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:53] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:53] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:53] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:53] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:53] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:54] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:54] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:54] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:54] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:54] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:54] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:54] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:55] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:55] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:55] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:55] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:55] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:55] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:55] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:56] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:56] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:56] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:57] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:57] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:57] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:57] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:57] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:58] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:58] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:58] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:58] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:58] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:58] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:58] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:58] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:24:59] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:00] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:00] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:00] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:00] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:00] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:00] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:00] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:00] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:01] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:01] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:01] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:01] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:01] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:01] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:01] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:01] Node 112: New leader recognized: Node 101
+[2025-04-24 21:25:01] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:02] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:03] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:04] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:05] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:05] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:05] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:05] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:05] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:05] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:05] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:05] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:05] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:06] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:06] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:06] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:06] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:06] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:06] Node 112: New leader recognized: Node 103
+[2025-04-24 21:25:06] Node 112: New leader recognized: Node 102
+[2025-04-24 21:25:06] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:06] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:06] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:06] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:06] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:07] Node 112: New leader recognized: Node 105
+[2025-04-24 21:25:07] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:07] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:07] Node 112: New leader recognized: Node 104
+[2025-04-24 21:25:07] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:07] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:07] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:07] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:07] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:07] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:07] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:08] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:08] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:08] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:08] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:08] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:08] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:08] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:08] Node 112: New leader recognized: Node 103
+[2025-04-24 21:25:08] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:08] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:09] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:09] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:09] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:09] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:09] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:09] Node 112: New leader recognized: Node 102
+[2025-04-24 21:25:09] Node 112: New leader recognized: Node 106
+[2025-04-24 21:25:09] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:10] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:10] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:10] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:10] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:10] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:10] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:11] Node 112: New leader recognized: Node 104
+[2025-04-24 21:25:11] Node 112: New leader recognized: Node 105
+[2025-04-24 21:25:11] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:11] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:11] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:11] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:11] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:12] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:13] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:13] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:13] Node 112: New leader recognized: Node 103
+[2025-04-24 21:25:13] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:13] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:13] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:13] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:13] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:14] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:14] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:14] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:14] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:14] Node 112: New leader recognized: Node 104
+[2025-04-24 21:25:14] Node 112: New leader recognized: Node 106
+[2025-04-24 21:25:14] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:14] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:14] Node 112: New leader recognized: Node 105
+[2025-04-24 21:25:15] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:15] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:15] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:15] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:15] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:15] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:15] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:15] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:15] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:16] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:17] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:18] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:18] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:18] Node 112: New leader recognized: Node 105
+[2025-04-24 21:25:18] Node 112: New leader recognized: Node 104
+[2025-04-24 21:25:18] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:18] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:18] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:18] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:19] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:19] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:19] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:19] Node 112: New leader recognized: Node 106
+[2025-04-24 21:25:19] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:19] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:20] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:20] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:20] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:20] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:20] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:20] Node 112: New leader recognized: Node 105
+[2025-04-24 21:25:20] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:21] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:22] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:22] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:22] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:22] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:22] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:22] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:22] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:22] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:22] Node 112: New leader recognized: Node 106
+[2025-04-24 21:25:23] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:23] Node 112: New leader recognized: Node 100
+[2025-04-24 21:25:23] Node 112: New leader recognized: Node 101
+[2025-04-24 21:25:23] Node 112: New leader recognized: Node 104
+[2025-04-24 21:25:23] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:23] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:24] Node 112: New leader recognized: Node 102
+[2025-04-24 21:25:24] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:24] Node 112: New leader recognized: Node 105
+[2025-04-24 21:25:24] Node 112: New leader recognized: Node 103
+[2025-04-24 21:25:24] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:24] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:25] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:25] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:25] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:25] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:25] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:25] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:25] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:25] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:25] Node 112: New leader recognized: Node 100
+[2025-04-24 21:25:26] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:26] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:26] Node 112: New leader recognized: Node 104
+[2025-04-24 21:25:26] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:26] Node 112: New leader recognized: Node 105
+[2025-04-24 21:25:26] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:26] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:27] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:27] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:27] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:27] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:27] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:27] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:27] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:27] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:28] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:28] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:28] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:28] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:28] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:28] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:28] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:28] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:28] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:29] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:29] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:29] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:29] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:29] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:29] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:30] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:30] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:30] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:30] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:30] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:30] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:30] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:30] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:31] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:31] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:31] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:31] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:31] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:31] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:31] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:31] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:31] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:31] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:32] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:33] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:34] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:34] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:34] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:34] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:34] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:34] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:34] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:34] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:35] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:35] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:35] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:35] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:35] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:35] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:35] Node 112: idle Leader Heartbeat Received from:  104
+[2025-04-24 21:25:35] Node 112: idle Leader Heartbeat Received from:  105
+[2025-04-24 21:25:35] Node 112: idle Leader Heartbeat Received from:  106
+[2025-04-24 21:25:36] Node 112: idle Leader Heartbeat Received from:  100
+[2025-04-24 21:25:36] Node 112: idle Leader Heartbeat Received from:  101
+[2025-04-24 21:25:36] Node 112: idle Leader Heartbeat Received from:  102
+[2025-04-24 21:25:36] Node 112: idle Leader Heartbeat Received from:  103
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 100
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 101
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 102
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 103
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 104
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 105
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 106
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 106
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 105
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 104
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 103
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 102
+[2025-04-24 21:25:36] Node 112: New leader recognized: Node 101
+[2025-04-24 21:25:37] Node 112: New leader recognized: Node 100
+[2025-04-24 21:25:53] Node 112: Leader 100 heartbeat timeout, starting election
+[2025-04-24 21:25:53] Node 112: Removed leader 100 from nodes list
+[2025-04-24 21:25:53] Node 112: Initiating Bully election...
+[2025-04-24 21:25:53] Node 112: I am the new leader (Coordinator).
+[2025-04-24 21:25:53] Node 112: ################ Started Role Assignning ##################
+[2025-04-24 21:26:04] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:26:09] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:26:14] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:26:19] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:26:24] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:26:29] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:26:34] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:26:40] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:26:45] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:26:50] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:26:55] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:00] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:05] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:10] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:15] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:20] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:25] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:30] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:35] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:40] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:46] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:51] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:27:56] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:01] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:06] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:11] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:16] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:21] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:26] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:31] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:36] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:41] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:46] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:51] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:28:57] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:02] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:07] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:12] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:17] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:22] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:27] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:32] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:37] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:42] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:47] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:52] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:29:57] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:02] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:07] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:13] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:18] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:23] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:28] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:33] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:38] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:43] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:48] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:53] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:30:58] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:03] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:08] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:13] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:18] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:23] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:28] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:33] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:38] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:43] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:48] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:53] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:31:58] Node 112: coordinator Heartbeat: Sent
+[2025-04-24 21:32:15] Node 112: [BOOT] Node 112 initialized.
+[2025-04-24 21:32:20] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:32:25] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:32:30] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:32:35] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:32:40] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:32:45] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:32:50] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:32:55] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:00] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:05] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:10] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:15] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:20] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:25] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:30] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:36] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:41] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:46] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:51] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:33:56] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:34:01] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:34:06] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:34:11] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:34:16] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:34:21] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:34:26] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:38:20] Node 112: [BOOT] Node 112 initialized.
+[2025-04-24 21:38:25] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:38:30] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:38:35] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:38:40] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:38:45] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:38:50] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:38:55] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:01] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:06] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:11] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:16] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:21] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:26] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:31] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:36] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:41] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:46] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:51] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:39:56] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:40:01] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:40:06] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:40:11] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:40:16] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:40:21] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:40:26] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:40:31] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:41:19] Node 112: [BOOT] Node 112 initialized.
+[2025-04-24 21:41:24] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:41:29] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:41:34] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:41:39] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:41:44] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:41:49] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:41:54] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:41:59] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:04] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:09] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:14] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:19] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:24] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:29] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:34] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:39] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:44] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:49] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:54] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:42:59] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:04] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:09] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:14] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:19] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:24] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:29] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:34] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:39] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:44] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:49] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:54] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:43:59] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:44:04] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:44:09] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:44:15] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:44:20] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:44:25] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:45:26] Node 112: [BOOT] Node 112 initialized.
+[2025-04-24 21:45:31] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:45:36] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:45:41] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:45:46] Node 112: Waiting for first heartbeat...
+[2025-04-24 21:45:51] Node 112: Waiting for first heartbeat...
