@@ -179,30 +179,40 @@ class Node:
             self.sidecar.log("Error: document.txt not found")
         except Exception as e:
             self.sidecar.log(f"Error reading document: {str(e)}")
-
     def process_word_count_line(self, msg):
         if self.role == 'proposer':
             line = msg['line']
             if msg['current_line'] == 1:
-                self.word_count = {}; 
+                self.word_count = {}  # Reset for new counting session
+                
             for char_code in range(ord(self.range[0]), ord(self.range[1]) + 1):
-                letter = chr(char_code)
-                a_words = [word for word in line.split() 
-                        if word and word[0].lower() == letter]
-                a_count = len(a_words)
+                letter = chr(char_code).lower()
+                words_for_letter = [word.lower() for word in line.split() 
+                                if word and word[0].lower() == letter]
                 
                 if letter not in self.word_count:
-                    self.word_count[letter] = {}
-                    self.word_count[letter]["count"] = a_count
-                self.word_count[letter]["count"] = self.word_count[letter]["count"] + a_count
+                    self.word_count[letter] = {
+                        "count": 0,
+                        "words": set()  # Using set to avoid duplicates
+                    }
+                    
+                self.word_count[letter]["count"] += len(words_for_letter)
+                self.word_count[letter]["words"].update(words_for_letter)
+                
             if msg['current_line'] == msg['total_lines']:
+                # Convert sets to sorted lists for consistent output
+                for letter in self.word_count:
+                    self.word_count[letter]["words"] = sorted(self.word_count[letter]["words"])
+                    
                 self.sidecar.log("===== Word Count (Proposer) =====")
-                self.sidecar.log(f"{'Letter':<10} {'Count':<10}")
-                self.sidecar.log("-" * 25)
+                self.sidecar.log(f"{'Letter':<15} {'Count':<10} {'Words'}")
+                self.sidecar.log("-" * 50)
                 for letter in sorted(self.word_count.keys()):
                     count = self.word_count[letter]["count"]
-                    self.sidecar.log(f"{letter.upper():<10} {count:<10}")
+                    words = ', '.join(self.word_count[letter]["words"])
+                    self.sidecar.log(f"{letter.upper():<15} {count:<10} {words}")
                 self.sidecar.log("=================================")
+                
                 self.send('cluster-broadcast', {
                     'type': 'word_count_result',
                     'from': self.node_id,
@@ -213,7 +223,9 @@ class Node:
     def process_word_count_result(self, msg):
         if self.role == 'acceptor':
             proposed_data = msg['data']
-            #todo Simulate validation (assume success for now)
+            #todo Simulate validation 
+            self.sidecar.log(f"Result validate from proposer {msg['from']}")
+
             is_valid = True  # Extend this with real validation logic if needed
             if is_valid:
                 self.accepted_counts.append(proposed_data)
@@ -228,17 +240,29 @@ class Node:
             incoming = msg['data']
             for letter, info in incoming.items():
                 if letter not in self.final_results:
-                    self.final_results[letter] = {"count": info['count']}
+                    self.final_results[letter] = {
+                        "count": info['count'],
+                        "words": set(info.get('words', []))
+                    }
                 else:
                     self.final_results[letter]['count'] = info['count']
-
+                    self.final_results[letter]['words'].update(info.get('words', []))
+                    
             # Prepare table format output
             self.sidecar.log("===== Final Word Count Summary =====")
-            self.sidecar.log(f"{'Letter':<10} {'Count':<10}")
-            self.sidecar.log("-" * 25)
+            self.sidecar.log(f"{'Letter':<15} {'Count':<10} {'Words'}")
+            self.sidecar.log("-" * 50)
+            
+            # Sort letters and words for consistent output
             for char in "abcdefghijklmnopqrstuvwxyz":
-                count = self.final_results.get(char, {}).get("count", 0)
-                self.sidecar.log(f"{char.upper():<10} {count:<10}")
+                char = char.lower()
+                if char in self.final_results:
+                    count = self.final_results[char]['count']
+                    words = ', '.join(sorted(self.final_results[char]['words']))
+                    self.sidecar.log(f"{char.upper():<15} {count:<10} {words}")
+                else:
+                    self.sidecar.log(f"{char.upper():<15} {0:<10}")
+                    
             self.sidecar.log("====================================")
 
 

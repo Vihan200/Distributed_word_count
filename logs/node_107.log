@@ -2865,3 +2865,24 @@
 [2025-04-24 21:48:05] Node 107: Waiting for first heartbeat...
 [2025-04-24 21:48:10] Node 107: Waiting for first heartbeat...
 [2025-04-24 21:48:15] Node 107: Waiting for first heartbeat...
+[2025-04-30 23:08:04] Node 107: [BOOT] Node 107 initialized.
+[2025-04-30 23:08:04] Node 107: Initiating Bully election...
+[2025-04-30 23:08:04] Node 107: I am the new leader (Coordinator).
+[2025-04-30 23:08:04] Node 107: ################ Started Role Assignning ##################
+[2025-04-30 23:08:09] Node 107: coordinator Heartbeat: Sent
+[2025-04-30 23:08:14] Node 107: coordinator Heartbeat: Sent
+[2025-04-30 23:08:19] Node 107: coordinator Heartbeat: Sent
+[2025-04-30 23:08:19] Node 107: ############## Word Count Start ##############
+[2025-04-30 23:08:20] Node 107: Finished sending document lines to proposers
+[2025-04-30 23:08:27] Node 107: coordinator Heartbeat: Sent
+[2025-04-30 23:08:32] Node 107: coordinator Heartbeat: Sent
+[2025-04-30 23:08:37] Node 107: coordinator Heartbeat: Sent
+[2025-04-30 23:08:37] Node 107: ############## Word Count Start ##############
+[2025-04-30 23:08:37] Node 107: Finished sending document lines to proposers
+[2025-04-30 23:08:42] Node 107: coordinator Heartbeat: Sent
+[2025-04-30 23:08:48] Node 107: coordinator Heartbeat: Sent
+[2025-04-30 23:08:53] Node 107: coordinator Heartbeat: Sent
+[2025-04-30 23:08:53] Node 107: ############## Word Count Start ##############
+[2025-04-30 23:08:53] Node 107: Finished sending document lines to proposers
+[2025-04-30 23:09:00] Node 107: coordinator Heartbeat: Sent
+[2025-04-30 23:09:05] Node 107: coordinator Heartbeat: Sent
